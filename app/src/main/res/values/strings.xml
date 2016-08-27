@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Habit Tracker App</string>
+    <string name="title_activity_main">Habit Tracker</string>
+    <string name="text_none_habits"></string>
+    <string name="error">ERROR</string>
+    <string name="btn_insert">Insert</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_removeAll">Remove All</string>
+    <string name="btn_ok">OK</string>
+    <string name="txtTitle">Enter Title</string>
+</resources>
